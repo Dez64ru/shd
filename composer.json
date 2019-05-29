@@ -1,0 +1,13 @@
+{
+    "name": "dez64ru/shd",
+    "type": "library",
+    "require": {
+        "php": ">=5.6",
+        "ext-json": "*",
+    },
+    "autoload": {
+        "files": [
+            "shd.php"
+        ]
+    },
+}
